@@ -10,7 +10,7 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
                 <a href="#intro" className="logo">NOXID</a>
                 <div className="itemContainer">
                   <Person className="icon" />
-                  <span>407 756 8287</span>
+                  <span>407 555 5555</span>
                 </div>
                 <div className="itemContainer">
                   <Mail className="icon" />
