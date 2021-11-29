@@ -10,7 +10,7 @@ export default function Intro() {
       showCursor: true, 
       backDelay:1500,
       backSpeed:60,
-      strings: ["Developer", "Designer", "Content Creator"], 
+      strings: ["Web and App Development", "Design", "Content Creation"], 
     });
   },[]);
 
@@ -23,9 +23,9 @@ export default function Intro() {
         </div>         
         <div className="right">
             <div className="wrapper">
-                <h2>Hi There, I'm</h2>
-                <h1>Andre' Dixon</h1>
-                <h3>Freelance <span ref={textRef}></span></h3>
+                <h2>Hi There, We Are</h2>
+                <h1>NOXID Design Agency</h1>
+                <h3>We Do Freelance <span ref={textRef}></span></h3>
             </div>
             <a href="#portfolio">
                 <img src="assets/down.png" alt=""/>
